@@ -3,4 +3,6 @@ email :
 username :
 pas:
 rpas:
+name : 
+family :
 ID = 12 
