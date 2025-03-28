@@ -1,2 +1,2 @@
 # first-repository
-Hello World repository for git tutorial.
+Hello World repository for gidddddddddddddddddddddddddddddddddddddddddddddddddddddddt tutorial.
